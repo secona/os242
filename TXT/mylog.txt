@@ -12,3 +12,9 @@ ZCZC W00 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 10 L08 Email asdos regarding hardware
 ZCZC W00 10 L41 TXT/mylog.txt related.
 ZCZC W01 100 L02 02/09/2024 class
+ZCZC W01 100 L02 04/09/2024 class
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 120 L09 Assignment in General
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 20 L40 TXT/ related in general.
+ZCZC W01 10 L06 References/Books/Documents/Browsing/GSGS related
