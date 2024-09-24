@@ -32,8 +32,8 @@ ZCZC W02 60 L32 YouTube: watch CyberSecurity for beginners
 ZCZC W02 90 L05 Quiz related including studying
 ZCZC W02 20 L07 Demo related
 ZCZC W03 100 L02 18/09/2024 class
-ZCZC W03 90 L09 Assignment in General
-ZCZC W03 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 120 L09 Assignment in General
+ZCZC W03 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 100 L02 23/09/2024 class
 ZCZC W03 20 L22 Trying out Linux CLI programs
 ZCZC W03 20 L40 TXT/ related in general.
