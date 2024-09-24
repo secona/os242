@@ -47,7 +47,7 @@ A simple and straightforward analogy on how GPG keys work.
 📺 [RSA Encryption From Scratch - Math & Python Code](https://www.youtube.com/watch?v=D_PfV_IcUdA){:target="_blank"} ---
 Explanation of the maths behind RSA Encryption and a simple implementation of it in Python.
 
-## 📂 File Permissions
+## 📂 Files
 
 📖 [Linux file permissions explained](https://www.redhat.com/sysadmin/linux-file-permissions-explained){:target="_blank"} ---
 File permissions is the cryptic `drwxr-xr-x` when you do `ls -al`. This blog provides an explanation on how to read those file permissions in Linux.
@@ -57,3 +57,10 @@ Another resource explaining file permissions in Linux and how to set it using `c
 
 📖 [`chown` Linux Command: File Ownership Guide](https://ioflood.com/blog/chown-linux-command/){:target="_blank"} ---
 Files have ownership. This blog explains how to set file ownership using the `chown` command in Linux.
+
+📖 [Classic SysAdmin: The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained){:target="_blank"} ---
+Explanation on the structure of The Linux Filesystem. It gives an overview on what each directory mean and what they are used for.
+
+📺 [Linux Directories Explained in 100 Seconds](){:target="_blank"} ---
+A short explanation on linux directories in a form of a 100 second video.
+
