@@ -40,8 +40,10 @@ ZCZC W03 20 L40 TXT/ related in general.
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 10 L64 Helping a friend (OS related problem)
 ZCZC W04 100 L02 25/09/2024 class
-ZCZC W04 100 L02 30/09/2024 class
+ZCZC W04 100 L02 01/09/2024 class by watching recording
 ZCZC W04 20 L22 Trying out Linux CLI programs
 ZCZC W04 20 L40 TXT/ related in general.
 ZCZC W04 120 L09 Assignment in General
 ZCZC W04 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L64 Helping a friend (OS related problem)
+ZCZC W04 50 L24 Scripting in general
