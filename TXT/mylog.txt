@@ -47,3 +47,11 @@ ZCZC W04 120 L09 Assignment in General
 ZCZC W04 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 10 L64 Helping a friend (OS related problem)
 ZCZC W04 50 L24 Scripting in general
+ZCZC W05 100 L02 02/10/2024 class
+ZCZC W05 100 L02 07/10/2024 class
+ZCZC W05 120 L09 Assignment in General
+ZCZC W05 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L22 Trying out Linux CLI programs
+ZCZC W05 20 L24 Scripting in general
+ZCZC W05 20 L07 Demo related
+ZCZC W05 20 L40 TXT/ related in general.
