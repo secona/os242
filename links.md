@@ -64,3 +64,5 @@ Explanation on the structure of The Linux Filesystem. It gives an overview on wh
 📺 [Linux Directories Explained in 100 Seconds](){:target="_blank"} ---
 A short explanation on linux directories in a form of a 100 second video.
 
+📖 [LFS](https://www.linuxfromscratch.org/lfs/){:target="_blank"} ---
+
